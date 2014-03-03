@@ -123,6 +123,7 @@ PRODUCT_PACKAGES += \
     SetupWizard \
     Street \
     talkback \
+    TwixApp \
     Velvet \
     Videos \
     Wallet \
