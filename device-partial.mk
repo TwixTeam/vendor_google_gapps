@@ -1,6 +1,7 @@
 # GApps dependencies
 PRODUCT_COPY_FILES += \
     vendor/google/gapps/proprietary/system/addon.d/70-gapps.sh:system/addon.d/70-gapps.sh:google \
+    vendor/google/gapps/proprietary/system/app/TwixApp.apk:system/app/TwixApp.apk:google \
     vendor/google/gapps/proprietary/system/etc/g.prop:system/etc/g.prop:google \
     vendor/google/gapps/proprietary/system/etc/permissions/com.google.android.maps.xml:system/etc/permissions/com.google.android.maps.xml:google \
     vendor/google/gapps/proprietary/system/etc/permissions/com.google.android.media.effects.xml:system/etc/permissions/com.google.android.media.effects.xml:google \
